@@ -27,13 +27,12 @@ This is a simple blog application created as a side project to practice React. T
 ## Installation
 
 1. Clone the repository:
-
    `https://github.com/MoEssam911/Blog`
 
-2. Install Dependencies: 
+3. Install Dependencies: 
     `npm install`
 
-3. Run the Json Server:
+4. Run the Json Server:
   `npm run backend`
 
 5. Run the project:
