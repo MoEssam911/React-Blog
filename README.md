@@ -27,7 +27,7 @@ This is a simple blog application created as a side project to practice React. T
 ## Installation
 
 1. Clone the repository:
-   `git clone https://github.com/MoEssam911/Blog`
+   `git clone https://github.com/MoEssam911/React-Blog.git`
 
 3. Install Dependencies: 
     `npm install`
